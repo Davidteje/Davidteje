@@ -1,9 +1,10 @@
 <h1 align="left">Hi 👋, I'm David</h1>
-<h4 align="left">I´m David, an enthusiastic Data Analyst from Madri. I help companies to optimize their business by planning and making decisions through in-depth analysis of their data. Excellent attitude, creator of good work environment and constant learner.
+
+I´m David, an enthusiastic Data Analyst from Madrid. I help companies to optimize their business by planning and making decisions through in-depth analysis of their data. Excellent attitude, creator of good work environment and constant learner.
 
 11 years background in the Real Estate field, having performed energy consumption and life-cycle analysis of facilities, and Business Intelligence dashboards for clients of multinational companies. I have worked in large-scale projects of maintenance and service management, with multidisciplinary teams and acquired a broad an experience in customer support and problem resolution with skateholders.
 
-Recently completed an intensive Data Analytics Bootcamp at Ironhack, having learned the best knowledge in the Data field.</h4>
+Recently completed an intensive Data Analytics Bootcamp at Ironhack, having learned the best knowledge in the Data field.
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">

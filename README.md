@@ -8,8 +8,8 @@ I´m David, an enthusiastic Data Analyst from Madrid. I help companies to optimi
 [![Gmail Badge](https://img.shields.io/badge/-davidtejesan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidtejesan@gmail.com)](mailto:davidtejesan@gmail.com)
 
 
-<h4 align="left">Languages and Tools:</h4>
+#### Languages and Tools:
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidteje&show_icons=true&locale=en" alt="davidteje" /></p>
-![giphy](https://user-images.githubusercontent.com/115221622/215131525-6f80dc5c-9ce3-4941-99b8-37d30780fc29.gif)
+<img align="right" alt="GIF" src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm" width="360px" height="246px" />

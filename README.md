@@ -13,4 +13,4 @@ I´m David, an enthusiastic Data Analyst from Madrid. I help companies to optimi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=davidteje&show_icons=true&hide_border=true" width="430px" height="264px"/>
 <img align="right" alt="GIF" 
-![giphy](https://user-images.githubusercontent.com/115221622/215136720-af5885b2-4e19-4cb9-ad2e-a86aacbf48a8.gif)
+![giphy](https://user-images.githubusercontent.com/115221622/215136720-af5885b2-4e19-4cb9-ad2e-a86aacbf48a8.gif) width="360px" height="246px" />

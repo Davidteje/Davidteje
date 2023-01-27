@@ -1,8 +1,11 @@
-<h1 align="left">Hi 👋, I'm David</h1>
+<h1 align="left">Hi  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm David</h1>
 
 I´m David, an enthusiastic Data Analyst from Madrid. I help companies to optimize their business by planning and making decisions through in-depth analysis of their data. Passionate about learning new technologies!
 
-<h4 align="left">Connect with me:</h4>
+Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-tejedor-sanchez/)](https://www.linkedin.com/in/david-tejedor-sanchez/)
+[![Gmail Badge](https://img.shields.io/badge/-davidtejesan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidtejesan@gmail.com)](mailto:davidtejesan@gmail.com)
+
 <p align="left">
 <a href="https://linkedin.com/in/david tejedor sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david tejedor sanchez" height="30" width="40" /></a>
 </p>

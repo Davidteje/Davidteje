@@ -3,6 +3,7 @@
 I´m David, an enthusiastic Data Analyst from Madrid. I help companies to optimize their business by planning and making decisions through in-depth analysis of their data. Passionate about learning new technologies!
 
 Connect with me:
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-tejedor-sanchez/)](https://www.linkedin.com/in/david-tejedor-sanchez/)
 [![Gmail Badge](https://img.shields.io/badge/-davidtejesan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidtejesan@gmail.com)](mailto:davidtejesan@gmail.com)
 

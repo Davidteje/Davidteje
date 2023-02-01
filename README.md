@@ -1,6 +1,6 @@
 <h1 align="left">Hi  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm David</h1>
 
-I´m David, an enthusiastic Data Analyst from Madrid. I help companies to optimize their business by planning and making decisions through in-depth analysis of their data. Passionate about learning new technologies!
+I´m David, an enthusiastic Data Analyst from Madrid. I love to facilitate business decisions by analyzing existing data in an very accurate and efficient way. Passionate about learning new technologies!
 
 #### Connect with me:
 
